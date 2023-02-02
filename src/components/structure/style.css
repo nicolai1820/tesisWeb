@@ -1,0 +1,19 @@
+.buttonhref {     
+    background-color: Transparent;
+    background-repeat:no-repeat;
+    border: none;
+    cursor:pointer;
+    overflow: hidden;        
+}
+
+.btncrear{
+    width: 100%;
+    background-color:#224787;
+    color: white;
+}
+
+.form-groupin{
+    position: relative;
+    margin-bottom: 25px;
+}
+
